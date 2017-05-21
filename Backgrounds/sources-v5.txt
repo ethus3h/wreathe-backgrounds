@@ -235,6 +235,8 @@ Untitled-TrueColor-01 35.bmp: Wreathe original
 
 w7wp-v2-10082012.m2t: Wreathe original
 
+warty-final-ubuntu.png: From gutsy-wallpapers package. See licensing information in licensing/gutsy-wallpapers.
+
 Washington_D.C._Cherry_Blossoms.jpg: By Sarah Hanlon. License: Creative Commons Attribution 2.0 Generic
 
 winter_frost.jpg: By Christmas Stock Images.com. License: Creative Commons Attribution 3.0 Unported
